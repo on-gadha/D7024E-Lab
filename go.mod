@@ -1,4 +1,4 @@
-module github.com/johankristianss/d7024e-tutorial
+module github.com/on-ghada/d7024e-tutorial
 
 go 1.23.5
 

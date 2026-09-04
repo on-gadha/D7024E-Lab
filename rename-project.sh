@@ -12,10 +12,10 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-OLD_NAME="johankristianss/d7024e-tutorial"
+OLD_NAME="on-ghada/d7024e-tutorial"
 NEW_NAME="$1"
 
-OLD_MODULE="github.com/johankristianss/d7024e-tutorial"
+OLD_MODULE="github.com/on-ghada/d7024e-tutorial"
 NEW_MODULE="github.com/$NEW_NAME"
 
 OLD_PREFIX="github.com/"
@@ -38,7 +38,7 @@ else
     }
 fi
 
-# Step 1: Replace johankristianss/d7024e-tutorial in file contents
+# Step 1: Replace on-ghada/d7024e-tutorial in file contents
 echo "Step 1: Updating file contents (project name)..."
 grep -rl "$OLD_NAME" . \
     --exclude-dir={.git,.github,vendor} \

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/johankristianss/d7024e-tutorial/internal/cli"
-	"github.com/johankristianss/d7024e-tutorial/pkg/build"
+	"github.com/on-ghada/d7024e-tutorial/internal/cli"
+	"github.com/on-ghada/d7024e-tutorial/pkg/build"
 )
 
 var (

@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"github.com/johankristianss/d7024e-tutorial/pkg/helloworld"
+	"github.com/on-ghada/d7024e-tutorial/pkg/helloworld"
 	"github.com/spf13/cobra"
 )
 

@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/johankristianss/d7024e-tutorial/pkg/build"
+	"github.com/on-ghada/d7024e-tutorial/pkg/build"
 	"github.com/spf13/cobra"
 )
 
